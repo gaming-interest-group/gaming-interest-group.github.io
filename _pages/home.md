@@ -1,5 +1,6 @@
 ---
 layout: splash
+permalink: /
 header:
   overlay_color: transparent
   overlay_image: /assets/logos/LogoSimplifiedBW.png
